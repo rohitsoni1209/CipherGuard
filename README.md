@@ -1,4 +1,4 @@
-# 🔐 Random Password Generator Tool
+# 🔐 CipherGuard : Random Password Generator Tool
 
 ### By Rohit Soni
 
@@ -33,11 +33,11 @@
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/rohitsoni1209/RandomPasswordGenerator.git
+   git clone https://github.com/rohitsoni1209/CipherGuard.git
 
 2. **Navigate into the directory**:
    ```bash
-   cd RandomPasswordGenerator
+   cd CipherGuard
 
 3. **Run the script: Ensure Python 3.x is installed, then run the generator directly**:
    ```bash
@@ -58,8 +58,8 @@
    ```
 
 ##  🐧Linux :-
-![image](https://github.com/user-attachments/assets/c652e611-9e50-4a76-a8c4-d396ca8c2df3)
+![image](https://github.com/user-attachments/assets/86b69602-9963-4cd0-a2c3-db00a387e23d)
 
 ##  🪟Windows :-
-<img width="960" alt="{F46EF93A-C428-441F-BD2A-5487E595A87A}" src="https://github.com/user-attachments/assets/b65da000-380d-442c-a6bc-8cc8a7db133e">
+<img width="960" alt="{6FD7F92C-F1FD-4B45-B3C7-46CF3F7FEF69}" src="https://github.com/user-attachments/assets/f68bc909-1d1f-42ac-92cd-6f1f221807cb">
 
